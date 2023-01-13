@@ -78,9 +78,8 @@ body {
   letter-spacing: 0.02em;
   color: currentColor;
 }
-.menu-link:hover,
-.menu-link:focus,
-.menu-link:active {
+.menu-link:active,
+.menu-link:focus {
   color: var(--brand-color);
 }
 
